@@ -63,10 +63,10 @@ The weight for the routing contrastive weight is set to 0.1
 
 | **Dataset**       | **Learning Rate** | **Batch Size** |
 |---------------|---------------|------------|
-| CIFAR-10      | 0.004      | 32    |
+| CIFAR-10      | 0.005     | 32    |
 | CIFAR + N     | 0.004       | 32             |
 | TinyImageNet  | 0.004       | 64      |
 
 ## Acknowledgements
 
-Our code is based on [CoOp](https://github.com/KaiyangZhou/CoOp) and [osr_closed_set_all_you_need](https://github.com/sgvaze/osr_closed_set_all_you_need) repository. We thank the authors for releasing their code. If you use our model and code, please consider citing these works as well.
+Our code is based on [CoOp](https://github.com/KaiyangZhou/CoOp) , [osr_closed_set_all_you_need](https://github.com/sgvaze/osr_closed_set_all_you_need) and [RouterDC](https://github.com/shuhao02/RouterDC) repository. We thank the authors for releasing their code. If you use our model and code, please consider citing these works as well.
